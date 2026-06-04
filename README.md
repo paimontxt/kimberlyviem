@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development, ux research, product design 
 - 🌱 I’m currently doing data analysis and reporting
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me - hello@kimberlyviem.com
 
 <!---
 kimberlyviem/kimberlyviem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
