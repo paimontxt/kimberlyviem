@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @kimberlyviem
 - 👀 I’m interested in software development, ux research, product design 
 - 🌱 I’m currently doing data analysis and reporting
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any data science related projects
+- 🎨 Sometimes I sketch, draw and travel whenever I'm free or if it's possible
 - 📫 How to reach me - hello@kimberlyviem.com
 
 <!---
