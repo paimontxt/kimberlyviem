@@ -3,7 +3,7 @@
 - 🌱 I’m currently doing data analysis and reporting
 - 💞️ I’m looking to collaborate on any data science related projects
 - 🎨 Sometimes I sketch, draw and travel whenever I'm free or if it's possible
-- 📫 How to reach me - hello@kimberlyviem.com
+- 📫 How to reach me - hello@kimberlyviem.com or kimberlyviem@gmail.com
 
 <!---
 kimberlyviem/kimberlyviem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
